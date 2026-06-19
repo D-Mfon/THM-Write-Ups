@@ -56,5 +56,3 @@ This room provided valuable insight into how security professionals track and ma
 
 Room Link
 https://tinyurl.com/fcterfap
-
-https://tryhackme.com
