@@ -3,10 +3,8 @@ My cybersecurity learning journey through TryHackMe rooms, security labs, and ha
 
 This repository contains my write-ups and notes from various TryHackMe rooms.
 Completed Rooms
-- Linux Fundamentals Part 1
-- Linux Fundamentals Part 2
-- Linux Fundamentals Part 3
-- Windows Fundamentals 1
+- Linux Fundamentals Part 1-3
+- Windows Fundamentals 1-3
 - What is Networking?
 - Vulnerabilities 101
 - Offensive Security Intro
