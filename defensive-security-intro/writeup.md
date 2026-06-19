@@ -33,4 +33,4 @@ Reflection
 This room strengthened my understanding of defensive cybersecurity and provided insight into the daily responsibilities of SOC analysts and incident responders. It reinforced my interest in pursuing a career in cybersecurity operations and threat detection.
 
 Room Link
-https://tinyurl.com/5xxupbv2
+https://tinyurl.com/m7uzrzte
